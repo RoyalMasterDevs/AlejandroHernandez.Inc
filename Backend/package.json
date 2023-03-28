@@ -12,6 +12,10 @@
   "license": "ISC",
   "devDependencies": {
     "express": "^4.18.2",
+    "mysql": "^2.18.1",
     "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "jsonpath-plus": "^7.2.0"
   }
 }
